@@ -35,8 +35,8 @@
 ###
 
 <div align="left">
-  <img src="imgs/image-1772951581085.webp" height="60" alt="go logo"  />
-  <img width="30" />
+  <img src="imgs/image-1772951581085.webp" height="100" alt="go logo"  />
+  <img width="12" />
   <img src="imgs/image-1772951610798.webp" height="60" alt="go logo"  />
   <img width="12" />
    <img src="imgs/image-1772951632324.webp" height="60" alt="go logo"  />
