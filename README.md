@@ -34,7 +34,7 @@
 
 ###
 
-<div align="center" >
+<div align="center" style="display: flex; gap:10px">
   <img src="imgs/image-1772951581085.webp" height="100" alt="go logo"  />
   <img width="12" />
   <img src="imgs/image-1772951610798.webp" height="60" alt="go logo"  />
