@@ -34,7 +34,7 @@
 
 ###
 
-<div align="left">
+<div align="center" >
   <img src="imgs/image-1772951581085.webp" height="100" alt="go logo"  />
   <img width="12" />
   <img src="imgs/image-1772951610798.webp" height="60" alt="go logo"  />
@@ -80,7 +80,6 @@
   <img width="12" /> 
    <img src="imgs/image-1773007007785.webp" height="60" alt="go logo"  />
   <img width="12" /> 
-  img
 </div>
 
 ###
