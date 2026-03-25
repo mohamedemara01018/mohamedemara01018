@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Mohamed Emarak from Egypt<br><br>- 🔭 I’m working as Full stack developer<br>- 📚 I'm currently learning optamize performance<br>- ⚡ In my free time I do sports</p>
+<p align="left">I'm Mohamed Emarak from Egypt<br><br>- 🔭 full stack developer | building fast, scalable web apps<br>- 📚 learning performance optimization, clean architecture, and best practices<br>- ⚡ sports enthusiast who values discipline and consistency</p>
 
 ###
 
