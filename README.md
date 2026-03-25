@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Mohamed Emarak from Egypt<br><br>- 🔭 I’m working as Full stack developer<br>- 📚 I'm currently learning optamize performance<br>- ⚡ In my free time I do sports</p>
 
 ###
 
